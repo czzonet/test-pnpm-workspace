@@ -1,0 +1,22 @@
+{
+  "name": "test-pnpm-workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czzonet/test-pnpm-workspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czzonet/test-pnpm-workspace/issues"
+  },
+  "homepage": "https://github.com/czzonet/test-pnpm-workspace#readme"
+}
